@@ -19,7 +19,19 @@ The goal of this project is to provide a professional online presence, highlight
 - Downloadable CV
 - Mobile-friendly and responsive
 
-## 📄 Getting Started
+## �️ Portfolio Details
+
+This portfolio includes the following sections:
+
+- **About Me:** A brief introduction and background information.
+- **Skills:** Overview of technical and soft skills.
+- **Projects:** Highlights of selected works and accomplishments.
+- **Contact:** Ways to get in touch or connect.
+- **Downloadable CV:** Access to my latest CV in PDF format.
+
+Visitors can expect a visually appealing, easy-to-navigate site that reflects my personality and professionalism. The content is tailored to showcase my strengths and make a strong impression on potential employers or collaborators.
+
+## �📄 Getting Started
 
 Simply open `index.html` in your browser to view the portfolio.
 
